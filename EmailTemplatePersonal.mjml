@@ -1,0 +1,84 @@
+<mjml>
+  <mj-body>
+    
+    <mj-section background-color="#cccccc">
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" color="#626262"
+align="center">Greetings</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Image Header -->
+    </mj-raw>
+     <mj-section background-color="#f0f0f0">
+        <mj-column width="400px">0
+
+          <mj-text font-style="italic"
+                   font-size="20px"
+                   font-family="Helvetica Neue"
+                   color="#626262"
+align="center">Hello <%= UserName %>,</mj-text>
+            <mj-text color="#525252" align="center">
+                I hope this email finds you well! It's been a while since we last caught up, and I wanted to check in to see how you're doing today.
+          </mj-text>
+
+            
+    </mj-column>
+  </mj-section>
+  
+    <mj-section background-color="fafafa">
+      <mj-column>
+        <mj-image width="300px"  height="150px" src="https://media.licdn.com/dms/image/C5612AQEmIW7-fD1diw/article-cover_image-shrink_720_1280/0/1593554959906?e=2147483647&v=beta&t=T03dBevRgTW2A_N7JuVyEHAVp0VyeEDIiwb2ztOvx64">
+</mj-image>
+      </mj-column>
+      <mj-raw>
+        <!-- right paragraph -->
+      </mj-raw>
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262"  align="center" >How is your Day so far?</mj-text>
+        <mj-text color="#525252" align="center" >
+I know Life has been keeping us on our toes lately but I've been thinking about you and wondering how things are going in your world. Have you had any exciting or noteworthy experiences lately? Whether it's work, personal projects, or just everyday life, I'd love to hear about it.</mj-text>
+      </mj-column>
+    </mj-section>
+ <mj-section background-color="#cccccc">
+      <mj-column>
+        <mj-text  font-size="16px" color="#525252" font-weight="bold" font-style="italic"
+align="center">Everybody asks have you done this? have you done that? but nobody askts have you had a good sleep yesterday, have you had enough rest yesterday, have you had break fast today?. Do you Need a Hug, Should I Hug you.
+  </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section background-color="#dddcdc">
+      <mj-column>
+        <mj-text  font-size="14px" color="#525252" font-weight="bold" 
+>As Said by Faiz Ahmed Faiz:
+
+  </mj-text>
+<mj-text  font-size="14px" color="#525252" font-style="italic" align="center" font-family="Ubuntu"
+>Dil na Umeed to nahi, naakaam hi to hai
+  </mj-text>
+<mj-text  font-size="14px" color="#525252" font-style="italic" align="center" font-family="Ubuntu"
+>Lambi hai Gham Ki Shaam magar shaam hi to hai
+
+  </mj-text>
+<mj-text  font-size="14px" color="#525252" font-weight="bold" font-family="Ubuntu"
+>
+The thing I am more worried about is that this shaam has started giving a vibe of January. It has been going on for more than four months and still it hasn't ended yet.
+  </mj-text>
+<mj-text  font-size="14px" color="#525252" font-weight="bold" font-family="Ubuntu"
+>
+Anyways hoping you have good day and enjoy a good coffee and Lunch today.
+  </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section background-color="#f0f0f0" >
+      <mj-column >
+        <mj-text font-style="italic" font-size="16px" font-family="Helvetica Neue" color="#626262">Regards</mj-text>
+        <mj-text color="#525252" font-size="16px" color="#574f4f" font-weight="bold" >Muhammad Dawar Shamim</mj-text>
+        <mj-text color="#525252" font-size="14px" >Junior Software Engineer </mj-text>
+        <mj-text color="#525252" font-size="14px" >KDyslab</mj-text>
+      </mj-column>
+    </mj-section>
+   
+  
+  </mj-body>
+</mjml>
